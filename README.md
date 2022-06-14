@@ -14,8 +14,6 @@ Populum enables citizens to post suggestions, react and upvote for other suggest
 _______
 
 ## User interface overview : 
-
-
 ### Citizen interface (mobile)
 
 Home page:
