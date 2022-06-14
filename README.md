@@ -15,11 +15,12 @@ _______
 
 ## User interface overview : 
 
+
 ### Citizen interface (mobile)
 
 Home page:
-<img width="381" alt="home-1" src="https://user-images.githubusercontent.com/101124539/173615051-4199beb8-8815-451b-a4b3-32aba75da504.png">
-<img width="396" alt="home-2" src="https://user-images.githubusercontent.com/101124539/173615067-392ddb63-d32a-43ab-8c88-4228d4938c8f.png">
+<img width="420" alt="home-1" src="https://user-images.githubusercontent.com/101124539/173615051-4199beb8-8815-451b-a4b3-32aba75da504.png">
+<img width="420" alt="home-2" src="https://user-images.githubusercontent.com/101124539/173615067-392ddb63-d32a-43ab-8c88-4228d4938c8f.png">
 
 Suggestions index:
 <img width="420" alt="index" src="https://user-images.githubusercontent.com/101124539/173612937-a48c502b-689f-4e6c-93d5-d2be8938558e.png">
